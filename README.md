@@ -1,2 +1,16 @@
 # Drug-Dissolution-Profile-Analyzer
-This code helps to form a  graph of time vs %drug release during dissolution of dosage form.
+
+
+This project analyzes drug dissolution data and plots a release profile.
+
+## Features
+- Plot dissolution curve
+- Simple and easy to use
+
+## Tech Used
+- Python
+- Matplotlib
+
+## Future Scope
+- Add comparison between formulations
+- Add kinetic modeling (Zero order, First order, Higuchi)
